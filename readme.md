@@ -1,6 +1,6 @@
 # Kvist technical task
 
-**Mission:** Create a currency converter application with Svelte and TypeScript based on the design provided (Look at Design.png).
+**Mission:** Create a currency converter application with Svelte and TypeScript based on the design provided (Look at `./Design.png`).
 
 
 ### User stories
