@@ -53,7 +53,9 @@ SVG code for arrow icon:
 
 I highly recommend going through the Svelte tutorial: https://svelte.dev/tutorial/basics
 
-This tutorial gives full insight to Svelte. It is not required to complete all the steps. You can easily navigate through the different chapters and skip to the topics that are relevant/interesting for completing the task.
+This tutorial gives full insight to Svelte. It is not required to complete all the steps. You can easily navigate through the different chapters and skip to the topics that are relevant/interesting for completing the task. 
+    
+If you like watching YouTube tutorials as well then i strongly recommend this channel: https://www.youtube.com/c/lihautan
 
     
 ### How to create a svelte project
